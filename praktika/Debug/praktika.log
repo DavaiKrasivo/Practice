@@ -1,0 +1,8 @@
+﻿  praktika.cpp
+d:\мысли дауна\praktika\praktika\praktika.cpp(24): warning C4551: в вызове функции отсутствует список аргументов
+d:\мысли дауна\praktika\praktika\praktika.cpp(27): warning C4551: в вызове функции отсутствует список аргументов
+d:\мысли дауна\praktika\praktika\praktika.cpp(47): warning C4018: <: несоответствие типов со знаком и без знака
+d:\мысли дауна\praktika\praktika\praktika.cpp(86): warning C4551: в вызове функции отсутствует список аргументов
+d:\мысли дауна\praktika\praktika\praktika.cpp(809): warning C4551: в вызове функции отсутствует список аргументов
+d:\мысли дауна\praktika\praktika\praktika.cpp(90): warning C4715: transliteration: значение возвращается не при всех путях выполнения
+  praktika.vcxproj -> D:\мысли дауна\praktika\Debug\praktika.exe
